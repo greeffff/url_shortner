@@ -1,0 +1,21 @@
+body, input {
+font: 0.9em Tahoma, sans-serif;
+}
+.zagolovok{
+	font: bold 110% serifl;
+	font-size: 100px;
+}
+.block_1{
+	width:100%;
+	max-width:600px;
+	text-align:center;
+	margin:0 auto;
+}
+input[type="url_for_short"] {
+    width: 500px;
+	height: 300px;
+}
+input[type="submit"] {
+    width: 500px;
+	height: 300px;
+}
